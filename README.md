@@ -1,4 +1,4 @@
-[![MasterHead](https://thumb.r2.moele.me/t/28175/28165683/a-0120.jpg)](https://github.com/Anonymous15052003)
+[![MasterHead]([https://thumb.r2.moele.me/t/28175/28165683/a-0120.jpg](https://static.vecteezy.com/system/resources/thumbnails/002/015/336/original/binary-code-with-numbers-moving-downward-on-screen-free-video.jpg))](https://github.com/Anonymous15052003)
 
 <h1 align="center">Hi 👋, I'm Sharon Chattopadhyay</h1>
 <h3 align="center">Passionate Computer Science Student | Hackathon Enthusiast | Innovative Project Developer</h3>
