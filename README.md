@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/thumbnails/002/015/336/original/binary-code-with-numbers-moving-downward-on-screen-free-video.jpg)](https://github.com/Anonymous15052003)
+[![MasterHead](https://www.shutterstock.com/shutterstock/videos/11745611/thumb/1.jpg?ip=x480)](https://github.com/Anonymous15052003)
 
 
 <h1 align="center">Hi 👋, I'm Sharon Chattopadhyay</h1>
