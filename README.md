@@ -1,4 +1,4 @@
-[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952kcmyhgl87agstrlwctff14ocrw6c8xpr6gogvnma&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://github.com/Anonymous15052003)
+[![MasterHead](https://thumb.r2.moele.me/t/28175/28165683/a-0120.jpg)](https://github.com/Anonymous15052003)
 
 <h1 align="center">Hi 👋, I'm Sharon Chattopadhyay</h1>
 <h3 align="center">Passionate Computer Science Student | Hackathon Enthusiast | Innovative Project Developer</h3>
