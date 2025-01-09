@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/700f2ecd2ca652d02ff0705ebdf8c4ee71dfbbe0d67fc02950f84eb251242ab9/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f666c6578692d636f64696e672e61707073706f742e636f6d2f6f2f64656d706769372d35323066386435662d363364342d343435332d383832322d6462633134396165323766382e6769663f616c743d6d6564696126746f6b656e3d39316330633762322d393363332d343032392d623031312d316138373033633537333064)](https://github.com/Anonymous15052003)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAlexcj10%2FAlexcj10&psig=AOvVaw3RnSwJvfltjZugU2YlBflv&ust=1736535117053000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiKusin6YoDFQAAAAAdAAAAABAR)](https://github.com/Anonymous15052003)
 
 <h1 align="center">Hi 👋, I'm Sharon Chattopadhyay</h1>
 <h3 align="center">Passionate Computer Science Student | Hackathon Enthusiast | Innovative Project Developer</h3>
