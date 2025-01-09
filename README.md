@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw2JCrb8DVtXj_qU_jnapDOS&ust=1736535318304000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjkhaqo6YoDFQAAAAAdAAAAABAJ)](https://github.com/Anonymous15052003)
+[![MasterHead](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952kcmyhgl87agstrlwctff14ocrw6c8xpr6gogvnma&ep=v1_gifs_search&rid=giphy.gif&ct=g)](https://github.com/Anonymous15052003)
 
 <h1 align="center">Hi 👋, I'm Sharon Chattopadhyay</h1>
 <h3 align="center">Passionate Computer Science Student | Hackathon Enthusiast | Innovative Project Developer</h3>
